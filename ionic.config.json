@@ -1,0 +1,7 @@
+{
+  "name": "cordovadiff",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
